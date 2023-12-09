@@ -1,4 +1,4 @@
-### Hi there 👋
+### 아직은 부족하지만 끊임없이 발전하려는 안드로이드 초보 개발자 👋
 
 <!--
 **ChooJeongHo/ChooJeongHo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
